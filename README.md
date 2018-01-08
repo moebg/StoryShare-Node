@@ -6,16 +6,16 @@ StoryShare is an online publishing platform that was inspired from Medium.com.
 
 ## Motivations
 
-The main motivation for this project was to build out a REST API for a blogging platform using Node.js. I decided to build out the backend separately than the frontend client. 
+The main motivation for this project was to build out a REST API for a blogging platform using Node.js. I decided to build out the backend separately from the frontend client. 
 
 Here were most of the things I had to implement for this API:
 
 * Implementing authentication routes
-* Building out all the models and model-relationships
+* Building out all the models
 * Enabling commenting functionality
 * CRUD endpoints for Articles
-* Adding 'Following' feature to app
-* Implementing routes for Article feed (public and logged in feeds are different)
+* Adding 'Following' feature
+* Implementing routes for Article feed 
 
 ## Tech Stack
 
